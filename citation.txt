@@ -1,0 +1,9 @@
+@article{REPO155,
+    author = "Altaheri, Hamdi and Muhammad, Ghulam and Alsulaiman, Mansour",
+    journal = "IEEE Transactions on Industrial Informatics",
+    number = "2",
+    pages = "2249--2258",
+    title = "{Physics-Informed Attention Temporal Convolutional Network for EEG-Based Motor Imagery Classification}",
+    volume = "19",
+    year = "2023"
+}
